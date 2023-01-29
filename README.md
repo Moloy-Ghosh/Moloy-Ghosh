@@ -10,6 +10,6 @@
   
 <hr/>
 <h6>Social links:</h6>
-  <a href="https://mbasic.facebook.com/moloy.ghosh.31508076"><img style="width:40px;height:40px;" src="facebook-logo-png-3.png title="Facebook"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/moloy-ghosh-cse/"><img style="width:40px;height:40px;" src="linkedin-logo-png-2023.png title="Linkedin"></a>
+  <a href="https://mbasic.facebook.com/moloy.ghosh.31508076"><img style="width:40px;height:40px;" src="facebook-logo-png-3.png" title="Facebook"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/moloy-ghosh-cse/"><img style="width:40px;height:40px;" src="linkedin-logo-png-2023.png" title="Linkedin"></a>
   <hr/>
