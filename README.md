@@ -1,8 +1,7 @@
-<h3>Hi I am <strong>Moloy Kumar Ghosh</strong></h3>
-<p>𝙸 𝚊𝚖 𝚊 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛.</p>
+<h3 align="center">Hi I am <strong>Moloy Kumar Ghosh</strong></h3>
+<p  align="center">𝙸 𝚊𝚖 𝚊 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚊𝚕𝚜𝚘 𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛.</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moloy-Ghosh&show_icons=true&locale=en&layout=compact" alt="Moloy-Ghosh" /></p>
 <hr/>
-
-<!--
 
 <h6>My Accounts on different Online Judges:</h6>
 
@@ -21,4 +20,3 @@
   
   <hr/>
 
--->
