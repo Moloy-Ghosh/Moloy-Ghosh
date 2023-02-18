@@ -3,11 +3,14 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moloy-Ghosh&show_icons=true&locale=en&layout=compact" alt="Moloy-Ghosh" /></p>
 <hr/>
 
+
+<!--
+
 <h6>My Accounts on different Online Judges:</h6>
 
-  <a href="https://codeforces.com/profile/Moloy_Ghosh"><img style="width:40px; height:40px;" src="code-forces.png" title="Codeforces"></a>&nbsp; &nbsp;
-  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=1280837"><img style="width:40px;height:40px;" src="UVa.png" title="UVa Online Judge"></a> &nbsp; &nbsp;
-  <a href="https://acm.timus.ru/author.aspx?id=341522"><img style="width:40px;height:40px;" src="Timus.jpg" title="Timus Online Judge"></a> &nbsp; &nbsp;
+  <a href="https://codeforces.com/profile/Moloy_Ghosh">1.Codeforces</a>&nbsp; &nbsp;
+  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=1280837">2.UVA Online Judge</a> &nbsp; &nbsp;
+  <a href="https://acm.timus.ru/author.aspx?id=341522">3.Timus</a> &nbsp; &nbsp;
   
 <hr/>
 
@@ -19,4 +22,5 @@
   <a href="https://www.linkedin.com/in/moloy-ghosh-cse/"><img style="width:40px;height:40px;" src="linkedin-logo-png-2023.png" title="Linkedin"></a> &nbsp; &nbsp;
   
   <hr/>
-
+  
+-->
