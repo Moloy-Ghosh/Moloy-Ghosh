@@ -3,24 +3,16 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moloy-Ghosh&show_icons=true&locale=en&layout=compact" alt="Moloy-Ghosh" /></p>
 <hr/>
 
-
-<!--
-
-<h6>My Accounts on different Online Judges:</h6>
-
-  <a href="https://codeforces.com/profile/Moloy_Ghosh">1.Codeforces</a>&nbsp; &nbsp;
-  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=1280837">2.UVA Online Judge</a> &nbsp; &nbsp;
-  <a href="https://acm.timus.ru/author.aspx?id=341522">3.Timus</a> &nbsp; &nbsp;
-  
+BSC in Computer Science and Engineering (Studying) <br>
+<a href="https://moloy-ghosh.github.io/Web-Project-02--Portfolio--/images/Result/result.html" target="blank" >Current CGPA: 3.86 (Out of 4)</a> <br>
 <hr/>
 
 
-
-<h6>Social links:</h6>
-
-  <a href="https://mbasic.facebook.com/moloy.ghosh.31508076"><img style="width:40px;height:40px;" src="facebook-logo-png-3.png" title="Facebook"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/moloy-ghosh-cse/"><img style="width:40px;height:40px;" src="linkedin-logo-png-2023.png" title="Linkedin"></a> &nbsp; &nbsp;
-  
+<h4>My Accounts on different Online Judges and Social media:</h4>
+  <a href="https://codeforces.com/profile/Moloy_Ghosh" target="blank"><img align="center" src="code-forces.png" alt="" title="Codeforces" height="30" width="30" /></a>&nbsp; &nbsp;
+  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=1280837" target="blank"><img align="center" src="UVa.png" alt="" title="UVA Online Judge" height="30" width="30" /></a> &nbsp; &nbsp;
+  <a href="https://acm.timus.ru/author.aspx?id=341522" target="blank"><img align="center" src="Timus.jpg" alt="" height="30" width="30" title="Timus online Judge"/></a> &nbsp; &nbsp;
+  <a href="https://mbasic.facebook.com/moloy.ghosh.31508076" target="blank"><img align="center" height="30" width="30" src="facebook-logo-png-3.png" title="Facebook"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/moloy-ghosh-cse/" target="blank"><img align="center" height="30" width="30"  src="linkedin-logo-png-2023.png" title="Linkedin"></a> &nbsp; &nbsp;
   <hr/>
   
--->
