@@ -5,6 +5,8 @@
 
 BSC in Computer Science and Engineering (Studying) <br>
 <a href="https://moloy-ghosh.github.io/Web-Project-02--Portfolio--/images/Result/result.html" target="blank" >Current CGPA: 3.86 (Out of 4)</a> <br>
+<br>
+<a target="_blank" href="https://moloy-ghosh.github.io/Web-Project-02--Portfolio--/images/achievement.html">My Skill and Achievement<a/>
 <hr/>
 
 
