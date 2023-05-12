@@ -1,6 +1,6 @@
 <h3 align="center">Hi I am <strong>Moloy Kumar Ghosh</strong></h3>
 <p  align="center">I am a full stack web developer proficient in the MERN stack</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moloy-Ghosh&show_icons=true&locale=en&layout=compact" alt="Moloy-Ghosh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moloy-Ghosh&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Moloy-Ghosh" /></p>
 <hr/>
 
 BSC in Computer Science and Engineering (Studying) <br>
