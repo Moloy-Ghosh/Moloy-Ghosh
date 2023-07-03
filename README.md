@@ -1,4 +1,4 @@
-<h3 align="center">Hi I am <strong>Moloy Kumar Ghosh</strong></h3>
+<h3 align="center">Hi I am <strong>Moloy Ghosh</strong></h3>
 <p  align="center">I am a full stack web developer proficient in the MERN stack</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moloy-Ghosh&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Moloy-Ghosh" /></p>
 <hr/>
