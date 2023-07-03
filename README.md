@@ -12,7 +12,6 @@ BSC in Computer Science and Engineering (Studying) <br>
 
 <h4>My Accounts on different Online Judges and Social media:</h4>
   <a href="https://codeforces.com/profile/Moloy_Ghosh" target="blank"><img align="center" src="code-forces.png" alt="" title="Codeforces" height="30" width="30" /></a>&nbsp; &nbsp;
-  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=1280837" target="blank"><img align="center" src="UVa.png" alt="" title="UVA Online Judge" height="30" width="30" /></a> &nbsp; &nbsp;
   <a href="https://acm.timus.ru/author.aspx?id=341522" target="blank"><img align="center" src="Timus.jpg" alt="" height="30" width="30" title="Timus online Judge"/></a> &nbsp; &nbsp;
   <a href="https://mbasic.facebook.com/moloy.ghosh.31508076" target="blank"><img align="center" height="30" width="30" src="facebook-logo-png-3.png" title="Facebook"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/moloy-ghosh-cse/" target="blank"><img align="center" height="30" width="30"  src="linkedin-logo-png-2023.png" title="Linkedin"></a> &nbsp; &nbsp;
